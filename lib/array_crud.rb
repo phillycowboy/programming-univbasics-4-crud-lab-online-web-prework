@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   groceries=["beer","cheese","eggs","milk"]
-  groceries.pop("arrays!")
+  groceries.pop()
 end
 
 def remove_element_from_start_of_array(array)
