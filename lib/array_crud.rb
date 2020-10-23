@@ -42,6 +42,6 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-this_is_bs=["wow", "arrays", "donkey feed", "foo","totally"]
-this_is_bs[4]
+this_is_my_list=["wow", "arrays", "donkey feed", "foo","totally"]
+this_is_my_list[4]
 end
