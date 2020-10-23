@@ -32,7 +32,7 @@ times_of_day[2]
 end
 
 def retrieve_first_element_from_array(array)
-
+  sayings=["wow", "omg", "lol"]
 end
 
 def retrieve_last_element_from_array(array)
