@@ -27,8 +27,8 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-times_of_day=["am", "pm","dusk","dawn"]
-times_of_day.index(0)
+times_of_day=["dusk", "pm","am","dawn"]
+times_of_day.index(2)
 end
 
 def retrieve_first_element_from_array(array)
