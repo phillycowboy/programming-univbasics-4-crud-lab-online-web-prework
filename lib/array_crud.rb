@@ -28,6 +28,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
 times_of_day=["am", "pm","dusk","dawn"]
+times_of_day.index(0)
 end
 
 def retrieve_first_element_from_array(array)
