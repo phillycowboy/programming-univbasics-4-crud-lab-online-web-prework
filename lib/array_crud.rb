@@ -43,4 +43,5 @@ end
 
 def update_element_from_index(array, index_number, element)
 this_is_bs=["wow", "arrays", "donkey feed", "foo"]
+this_is_bs[4] "totally"
 end
