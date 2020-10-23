@@ -33,6 +33,7 @@ end
 
 def retrieve_first_element_from_array(array)
   sayings=["wow", "omg", "lol"]
+  sayings[0]
 end
 
 def retrieve_last_element_from_array(array)
